@@ -19,5 +19,5 @@ No es necesario realizar ninguna instalación adicional si ya tienes una versió
    Ejemplo:
 
    ```python
-python3 csv_reader.py -f /home/shinki/Escritorio/maquina/172.17.0.2/dump/users/usuarios.csv
+   python3 csv_reader.py -f /home/shinki/Escritorio/maquina/172.17.0.2/dump/users/usuarios.csv
    ```
